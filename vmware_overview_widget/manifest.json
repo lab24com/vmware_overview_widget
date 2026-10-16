@@ -4,7 +4,7 @@
 	"type": "widget",
 	"name": "VMware: Vista general",
 	"namespace": "VmwareOverview",
-	"version": "1.4.0",
+	"version": "1.0",
 	"author": "LAKA Soluciones Tecnológicas",
 	"description": "Vista consolidada de máquinas virtuales, hipervisores ESXi y datastores descubiertos por la plantilla oficial VMware de Zabbix 7.0–8.0.",
 	"url": "https://www.zabbix.com/integrations/vmware",
