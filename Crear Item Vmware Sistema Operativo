@@ -1,0 +1,12 @@
+| Campo | Configuración |
+|---|---|
+| Nombre | `Sistema operativo VMware` |
+| Tipo | `Comprobación simple` |
+| Clave | `vmware.vm.property[{$VMWARE.URL},{$VMWARE.VM.UUID},guest.guestFullName]` |
+| Tipo de información | `Carácter` |
+| Nombre de usuario | `{$VMWARE.USERNAME}` |
+| Contraseña | `{$VMWARE.PASSWORD}` |
+| Intervalo de actualización | `1h` |
+| Historial | `31d` |
+| Campo de inventario | `Ninguno` |
+| Estado | `Habilitado` |
